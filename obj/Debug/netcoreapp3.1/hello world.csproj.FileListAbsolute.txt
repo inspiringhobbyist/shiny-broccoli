@@ -11,3 +11,9 @@ C:\Users\user\Documents\hello world\obj\Debug\netcoreapp3.1\hello world.csproj.C
 C:\Users\user\Documents\hello world\obj\Debug\netcoreapp3.1\hello world.dll
 C:\Users\user\Documents\hello world\obj\Debug\netcoreapp3.1\hello world.pdb
 C:\Users\user\Documents\hello world\obj\Debug\netcoreapp3.1\hello world.genruntimeconfig.cache
+C:\Users\user\Documents\shiny-broccoli\obj\Debug\netcoreapp3.1\hello world.csprojAssemblyReference.cache
+C:\Users\user\Documents\shiny-broccoli\obj\Debug\netcoreapp3.1\hello world.AssemblyInfoInputs.cache
+C:\Users\user\Documents\shiny-broccoli\obj\Debug\netcoreapp3.1\hello world.AssemblyInfo.cs
+C:\Users\user\Documents\shiny-broccoli\obj\Debug\netcoreapp3.1\hello world.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\shiny-broccoli\obj\Debug\netcoreapp3.1\hello world.dll
+C:\Users\user\Documents\shiny-broccoli\obj\Debug\netcoreapp3.1\hello world.pdb
